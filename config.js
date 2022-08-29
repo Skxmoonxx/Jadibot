@@ -119,7 +119,7 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Yumi-Botz ˘ฅ ꒱ ‧₊˚꒷�
 global.wm3 = '⫹⫺ Yumi Botz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Ribin`
+global.titlebot = `⫹⫺ WhatsApp Bot | By Robin`
 global.author = '                「 Yumi-Botz  あ⁩ 」'
 
 
