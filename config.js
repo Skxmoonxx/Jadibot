@@ -60,16 +60,16 @@ global.ppulsa2 = '085962734007'
 global.psaweria = 'https://saweria.com/DonateBot'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285600648045'
-global.nomorown = '6285878258447'
-global.namebot = 'VinnXd'
-global.nameown = 'BotzZ Vinn'
+global.nomorbot = '6283182655954'
+global.nomorown = '6283182655954'
+global.namebot = 'Rila Botz'
+global.nameown = 'Rila'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285878258447', 'Sewa Bot', true],
-  ['6285878258447', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['6283182655954', 'Sewa Bot', true],
+  ['6283182655954', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,18 +114,18 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 VinnXd 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘VinnXd ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ VinnXd'
+global.wm = '                「 Rila 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Rila ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Rila'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Botz Vinn`
-global.author = '                「 VinnXd  あ⁩ 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Rila `
+global.author = '                「 Rila Botz あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/eed5c859a1929d75fb4bf.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/4a12625ec62a02d044fc0.jpg'
+global.thumb = 'https://telegra.ph/file/78a8007691c142348915c.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/998ce20a7edd3b9a4e29d.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://hardianto.xyz/api/anime/random?sfw=wallpaper&apikey=hardianto']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
