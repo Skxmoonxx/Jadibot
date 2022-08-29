@@ -60,16 +60,16 @@ global.ppulsa2 = '085962734007'
 global.psaweria = 'https://saweria.com/DonateBot'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283862006229'
-global.nomorown = '6283862006229'
-global.namebot = 'Shirohigebot-MD'
-global.nameown = 'SkyxmoonOffc'
+global.nomorbot = '6283104692951'
+global.nomorown = '6283104692951'
+global.namebot = 'Yumi Botz'
+global.nameown = 'Robin'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283862006229', 'Sewa Bot', true],
-  ['6283862006229', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['6283104692951', 'Sewa Bot', true],
+  ['6283104692951', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,13 +114,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 SkyxmoonOffc 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘SkyxmoonOffc ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ SkyxmoonOffc '
+global.wm = '                「 Yumi-Botz 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Yumi-Botz ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Yumi Botz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By SkyxmoonOffc`
-global.author = '                「 SkyxmoonOffc  あ⁩ 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Ribin`
+global.author = '                「 Yumi-Botz  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -188,8 +188,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Shirohigebot-MD'
-global.stickauth = `By ©Shirohigebot-MD`
+global.stickpack = 'Yumi-Botz'
+global.stickauth = `By ©Yumi Botz`
 
 global.multiplier = 38 // The higher, The harder levelup
 
